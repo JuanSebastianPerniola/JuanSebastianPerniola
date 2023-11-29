@@ -1,56 +1,55 @@
-# Hello, I'm Juan Sebastian Perniola! 👋
+# ¡Hola, soy Juan Sebastian Perniola! 👋
 
-## About Me
-I am a student in Multiplatform Application Development (DAM), passionate about programming and challenges. Currently, I am exploring different technologies, including Kotlin, Java, HTML+CSS, and Python, with Java being my favorite language so far. My goal is to continuously learn and take on new challenges, with the aspiration of becoming a Project Manager in the future.
+## Acerca de Mí
+Soy Juan Sebastian Perniola, un apasionado estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta enfrentarme a desafíos de programación y estoy explorando diversas tecnologías, como Kotlin, Java, HTML+CSS y Python. Hasta ahora, mi lenguaje favorito es Java.
 
-## Languages Used in Class
-- Java
-- Python
-- HTML+CSS
-- Kotlin
+## Lenguajes Utilizados en Clase
+- Java ☕
+- Python 🐍
+- HTML+CSS 🌐
+- Kotlin 🚀
 
-## Featured Projects
-- [Markup Language Project]([link to project 1](https://github.com/JSebastian123/LDM/tree/main/Act20))
+## Proyectos Destacados
+- [Markup Language Project](https://github.com/JSebastian123/LDM/tree/main/Act20) 📄
 
-## Academic and Professional Experience
-### Academic
-We have covered HTML+CSS, Kotlin, Java, and Python. Honestly, I lean towards Python and Java. They are very different languages, and of the two, I would choose Java for its typography.
+## Experiencia Académica y Profesional
+### Académica
+Hemos cubierto HTML+CSS, Kotlin, Java y Python. Personalmente, me inclino hacia Python y Java. Son lenguajes muy diferentes, y de los dos, elegiría Java por su elegancia tipográfica.
 
-- **Future Aspirations**
-  My goal is to continue learning and eventually become a Project Manager.
+- **Aspiraciones Futuras**
+  Mi meta es seguir aprendiendo y eventualmente convertirme en Gerente de Proyectos.
 
-## Class Projects
-We have worked on various class projects, including:
-- [Monkey Island Game](link al repositorio de monkey island): A Java-based game project.
-- [Future Entornos Project](link a repostiorio de entornos): We have used Python for this project in the past, and we are planning to expand it in the future.
+## Proyectos de Clase
+Hemos trabajado en varios proyectos de clase, incluyendo:
+- [Monkey Island Game](link al repositorio de Monkey Island) 🐒🎮
+- [Proyecto Future Entornos](link al repositorio de Entornos) 🚀
 
-## Habilitats i Tecnologies
+## Habilidades y Tecnologías
+- **Lenguajes de Programación:**
+  - Java ☕
+  - Python 🐍
+  - HTML+CSS 🌐
 
-- **Llenguatges de Programació:**
-  - Java
-  - Python
-  - HTML+CSS
+- **Otras Habilidades:**
+  - Resolución de Problemas 💡
+  - Trabajo en Equipo 🤝
+  - Comunicación Efectiva 🗣️
 
-- **Altres Habilidades:**
-  - Resolució de problemes
-  - Treball en equip
-  - Comunicació efectiva
-
-## Contact
-- 📞 Phone: 642125136
+## Contacto
+- 📞 Teléfono: 642125136
 - ✉️ Email: juanperniolarugby@gmail.com
 
-## Quick Links
-- [Instagram](https://www.instagram.com/juan_perniola)
-- [LinkedIn](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/)
+## Enlaces Rápidos
+- [Instagram](https://www.instagram.com/juan_perniola) 📸
+- [LinkedIn](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/) 🔗
 
-## Featured Repositories
-These repositories cover each of my subjects:
-- [LDM Project](https://github.com/JSebastian123/LDM.git)
-- [Development Environments](https://github.com/JSebastian123/EntornosDeDesarrollo.git)
-- [Programming](https://github.com/JSebastian123/programacion.git)
+## Repositorios Destacados
+Estos repositorios cubren cada una de mis asignaturas:
+- [Proyecto LDM](https://github.com/JSebastian123/LDM.git) 📁
+- [Entornos de Desarrollo](https://github.com/JSebastian123/EntornosDeDesarrollo.git) ⚙️
+- [Programación](https://github.com/JSebastian123/programacion.git) 💻
 
-## Fun Fact
-In my free time, I immerse myself in the world of cooking. Exploring new flavors is as exciting as programming!
+## Dato Curioso
+En mi tiempo libre, me sumerjo en el mundo de la cocina. ¡Explorar nuevos sabores es tan emocionante como programar! 🍳👨‍🍳
 
-Thanks for visiting my profile! If you have any questions or suggestions, feel free to contact me. 😊
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme! 😊
