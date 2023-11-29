@@ -1,30 +1,33 @@
-# ¡Hola, soy Juan Sebastian Perniola! 👋
+# Hello, I'm Juan Sebastian Perniola! 👋
 
-## Sobre mí
-Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por la programación y los desafíos. Actualmente estoy explorando diferentes tecnologías, incluyendo Kotlin, Java, HTML+CSS y Python, siendo Java mi lenguaje favorito hasta ahora. Mi objetivo es aprender continuamente y enfrentar nuevos desafíos, con la aspiración de convertirme en Project Manager en el futuro.
+## About Me
+I am a student in Multiplatform Application Development (DAM), passionate about programming and challenges. Currently, I am exploring different technologies, including Kotlin, Java, HTML+CSS, and Python, with Java being my favorite language so far. My goal is to continuously learn and take on new challenges, with the aspiration of becoming a Project Manager in the future.
 
-## Habilidades Técnicas
+## Languages Used in Class
 - Java
 - Python
 - HTML+CSS
 - Kotlin
 
-## Proyectos Destacados
-- [Proyecto de lenguaje de marcas]([enlace al proyecto 1](https://github.com/JSebastian123/LDM/tree/main/Act20))
-- 
-## Contacto
-- 📞 Teléfono: 642125136
-- ✉️ Correo Electrónico: juanperniolarugby@gmail.com
+## Featured Projects
+- [Markup Language Project]([link to project 1](https://github.com/JSebastian123/LDM/tree/main/Act20))
 
-## Enlaces Rápidos
+## Contact
+- 📞 Phone: 642125136
+- ✉️ Email: juanperniolarugby@gmail.com
+
+## Quick Links
 - [Instagram](https://www.instagram.com/juan_perniola)
 - [LinkedIn](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/)
 
-## Repositorios Destacados
-Son repositorios sobre cada una de mis asignaturas
+## Featured Repositories
+These repositories cover each of my subjects:
 - [LDM Project](https://github.com/JSebastian123/LDM.git)
-- [Entornos de Desarrollo](https://github.com/JSebastian123/EntornosDeDesarrollo.git)
-- [Programacion](https://github.com/JSebastian123/programacion.git)
+- [Development Environments](https://github.com/JSebastian123/EntornosDeDesarrollo.git)
+- [Programming](https://github.com/JSebastian123/programacion.git)
 
+## Fun Fact
+In my free time, I immerse myself in the world of cooking. Exploring new flavors is as exciting as programming!
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
+Thanks for visiting my profile! If you have any questions or suggestions, feel free to contact me. 😊
+
