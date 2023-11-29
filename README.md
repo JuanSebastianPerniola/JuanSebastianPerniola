@@ -1,57 +1,58 @@
+# Hello, I'm Juan Sebastian Perniola! 👋
 
-<h1 align="center"># ¡Hola, soy Juan Sebastian Perniola! 👋</h1>
-<h3 align="center">A passionate cross-platform application development student at CIDE.</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/3a.png"> </div>
-## Acerca de Mí
-Soy Juan Sebastian Perniola, un apasionado estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta enfrentarme a desafíos de programación y estoy explorando diversas tecnologías, como Kotlin, Java, HTML+CSS y Python. Hasta ahora, mi lenguaje favorito es Java.
+## About Me
+I'm Juan Sebastian Perniola, a passionate student in Cross-Platform Application Development (DAM). I love tackling programming challenges and exploring various technologies such as Kotlin, Java, HTML+CSS, and Python. So far, my favorite language is Java.
 
-## Lenguajes Utilizados en Clase
+## Languages Used in Class
 - Java ☕
 - Python 🐍
 - HTML+CSS 🌐
 - Kotlin 🚀
 
-## Proyectos Destacados
+## Featured Projects
 - [Markup Language Project](https://github.com/JSebastian123/LDM/tree/main/Act20) 📄
 
-## Experiencia Académica y Profesional
-### Académica
-Hemos cubierto HTML+CSS, Kotlin, Java y Python. Personalmente, me inclino hacia Python y Java. Son lenguajes muy diferentes, y de los dos, elegiría Java por su elegancia tipográfica.
+## Academic and Professional Experience
+### Academic
+We've covered HTML+CSS, Kotlin, Java, and Python. Personally, I lean towards Python and Java. They are very different languages, and of the two, I would choose Java for its typographic elegance.
 
-- **Aspiraciones Futuras**
-  Mi meta es seguir aprendiendo y eventualmente convertirme en Gerente de Proyectos.
+- **Future Aspirations**
+  My goal is to keep learning and eventually become a Project Manager.
 
-## Proyectos de Clase
-Hemos trabajado en varios proyectos de clase, incluyendo:
-- [Monkey Island Game](link al repositorio de Monkey Island) 🐒🎮
-- [Proyecto Future Entornos](link al repositorio de Entornos) 🚀
+## Class Projects
+We've worked on various class projects, including:
+- [Monkey Island Game](link to Monkey Island repository) 🐒🎮
+- [Future Environments Project](link to Environments repository) 🚀
 
-## Habilidades y Tecnologías
-- **Lenguajes de Programación:**
+## Skills and Technologies
+- **Programming Languages:**
   - Java ☕
   - Python 🐍
   - HTML+CSS 🌐
 
-- **Otras Habilidades:**
-  - Resolución de Problemas 💡
-  - Trabajo en Equipo 🤝
-  - Comunicación Efectiva 🗣️
+- **Other Skills:**
+  - Problem Solving 💡
+  - Teamwork 🤝
+  - Effective Communication 🗣️
 
-## Contacto
-- 📞 Teléfono: 642125136
+## Contact
+- 📞 Phone: 642125136
 - ✉️ Email: juanperniolarugby@gmail.com
 
-## Enlaces Rápidos
+## Quick Links
 - [Instagram](https://www.instagram.com/juan_perniola) 📸
 - [LinkedIn](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/) 🔗
 
-## Repositorios Destacados
-Estos repositorios cubren cada una de mis asignaturas:
-- [Proyecto LDM](https://github.com/JSebastian123/LDM.git) 📁
-- [Entornos de Desarrollo](https://github.com/JSebastian123/EntornosDeDesarrollo.git) ⚙️
-- [Programación](https://github.com/JSebastian123/programacion.git) 💻
+## Featured Repositories
+These repositories cover each of my subjects:
+- [LDM Project](https://github.com/JSebastian123/LDM.git) 📁
+- [Development Environments](https://github.com/JSebastian123/EntornosDeDesarrollo.git) ⚙️
+- [Programming](https://github.com/JSebastian123/programacion.git) 💻
 
-## Dato Curioso
-En mi tiempo libre, me sumerjo en el mundo de la cocina. ¡Explorar nuevos sabores es tan emocionante como programar! 🍳👨‍🍳
+## Fun Fact
+In my free time, I immerse myself in the world of cooking. Exploring new flavors is as exciting as programming! 🍳👨‍🍳
+
+Thanks for visiting my profile! If you have any questions or suggestions, feel free to contact me! 😊
+
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme! 😊
