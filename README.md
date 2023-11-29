@@ -23,8 +23,8 @@ Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado
 ## Repositorios Destacados
 Son repositorios sobre cada una de mis asignaturas
 - [LDM Project](https://github.com/JSebastian123/LDM.git)
-- [Entornos de Desarrollo](https://github.com/JSebastian123/EntornosDeDesarrollo.git))
-- [Programacion](https://github.com/JSebastian123/programacion.git))
+- [Entornos de Desarrollo](https://github.com/JSebastian123/EntornosDeDesarrollo.git)
+- [Programacion](https://github.com/JSebastian123/programacion.git)
 
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
