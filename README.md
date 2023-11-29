@@ -1,5 +1,7 @@
-# ¡Hola, soy Juan Sebastian Perniola! 👋
 
+<h1 align="center"># ¡Hola, soy Juan Sebastian Perniola! 👋</h1>
+<h3 align="center">A passionate cross-platform application development student at CIDE.</h3>
+<div align="center"> <img src="https://raw.githubusercontent.com/joseluisvazzquez/joseluisvazzquez/main/3a.png"> </div>
 ## Acerca de Mí
 Soy Juan Sebastian Perniola, un apasionado estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta enfrentarme a desafíos de programación y estoy explorando diversas tecnologías, como Kotlin, Java, HTML+CSS y Python. Hasta ahora, mi lenguaje favorito es Java.
 
