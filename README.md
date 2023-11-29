@@ -1,16 +1,30 @@
-### Hi there 👋
+# ¡Hola, soy Juan Sebastian Perniola! 👋
 
-<!--
-**JSebastian123/JSebastian123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por la programación y los desafíos. Actualmente estoy explorando diferentes tecnologías, incluyendo Kotlin, Java, HTML+CSS y Python, siendo Java mi lenguaje favorito hasta ahora. Mi objetivo es aprender continuamente y enfrentar nuevos desafíos, con la aspiración de convertirme en Project Manager en el futuro.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas
+- Java
+- Python
+- HTML+CSS
+- Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [Proyecto de lenguaje de marcas]([enlace al proyecto 1](https://github.com/JSebastian123/LDM/tree/main/Act20))
+- 
+## Contacto
+- 📞 Teléfono: 642125136
+- ✉️ Correo Electrónico: juanperniolarugby@gmail.com
+
+## Enlaces Rápidos
+- [Instagram](https://www.instagram.com/juan_perniola)
+- [LinkedIn](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/)
+
+## Repositorios Destacados
+Son repositorios sobre cada una de mis asignaturas
+- [LDM Project](https://github.com/JSebastian123/LDM.git)
+- [Entornos de Desarrollo]([enlace al repositorio](https://github.com/JSebastian123/EntornosDeDesarrollo.git))
+- [Programacion]([enlace al repositorio](https://github.com/JSebastian123/programacion.git))
+
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
