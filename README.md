@@ -7,7 +7,6 @@ I'm Juan Sebastian Perniola, a passionate student in Cross-Platform Application 
 - Java ☕
 - Python 🐍
 - HTML+CSS 🌐
-- Kotlin 🚀
 
 ## Featured Projects
 - [Markup Language Project](https://github.com/JSebastian123/LDM/tree/main/Act20) 📄
