@@ -9,7 +9,7 @@ I'm Juan Sebastian Perniola, a passionate student in Cross-Platform Application 
 - HTML+CSS 🌐
 
 ## Featured Projects
-- [Markup Language Project]([https://github.com/JSebastian123/LDM/tree/main/Act20](https://github.com/JuanSebastianPerniola/LDM)) 📄
+- [Markup Language Project](https://github.com/JuanSebastianPerniola/LDM) 📄
 This repository is about markup language aimed at learning HTML+CSS.
 -[Programming Classes Project](https://github.com/JuanSebastianPerniola/programacion) ☕
 This repository is about my Java classes.
