@@ -9,12 +9,16 @@ I'm Juan Sebastian Perniola, a passionate student in Cross-Platform Application 
 - HTML+CSS 🌐
 
 ## Featured Projects
-- [Markup Language Project](https://github.com/JuanSebastianPerniola/LDM) 📄<br>
-This repository is about markup language aimed at learning HTML+CSS.<br>
--[Programming Classes Project](https://github.com/JuanSebastianPerniola/programacion) ☕<br>
-This repository is about my Java classes.
--[Programming Curses]() ☕ (working on the repository)<br>
-Courses online about Java, Python, and JavaScript 📚💻🐍🔗
+
+- [Markup Language Project](https://github.com/JuanSebastianPerniola/LDM) 📄
+  - This repository is about markup language aimed at learning HTML+CSS.
+
+- [Programming Classes Project](https://github.com/JuanSebastianPerniola/programacion) ☕
+  - This repository is about my Java classes.
+
+- [Programming Courses Project]() ☕ (working on the repository)
+  - Courses online about Java, Python, and JavaScript 📚💻🐍🔗
+
 
 ## Academic and Professional Experience
 ### Academic
