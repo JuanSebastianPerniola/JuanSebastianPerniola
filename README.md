@@ -40,18 +40,17 @@ My studies have covered various technologies, including Java, Python, and web de
 - **[Markup Language Project](https://github.com/JuanSebastianPerniola/LDM)** – A repository focused on learning and implementing HTML+CSS structures.  
 - **[Programming Classes Project](https://github.com/JuanSebastianPerniola/programacion)** – Java-based coursework and exercises.  
 - **[Programming Courses Project]()** – Work in progress, featuring online courses related to Java, Python, and JavaScript.  
-- **[Android Studio Projects](https://github.com/JuanSebastianPerniola/AndroidStudio)** – Repository for Android Studio development projects.  
 - **[API Development (ADU)](https://github.com/JuanSebastianPerniola/API-)** – Repository for API-related work and implementations.  
 
-## Personal Projects  
-
+## Personal Projects
+- **[Scripts (Personal Projects)]()** – WIP: A collection of Python scripts for personal use and learning.
+ 
 Beyond my academic work, I actively explore various development fields:  
 
 - **3D Modeling & Animation** – Creating assets in Blender for different projects.  
 - **GUI Design** – Designing modern and user-friendly interfaces.  
 - **Roblox Development** – Building interactive experiences using **Lua in Roblox Studio**.  
-- **BoneLab Modding** – Modifying BoneLab, a **VR physics-based sandbox game** known for its advanced interaction mechanics and immersive environments.  
-
+- **Godot Development** - Taking part in game jams to challenge myself and grow as a game developer, blending my beginner experience in 3D modeling and gameplay programming
 
 My goal is to deepen my expertise in **backend development and service maintenance**, focusing on building reliable, high-performance software solutions. I am particularly interested in **system architecture, API development, and enterprise-level integrations**.  
 
