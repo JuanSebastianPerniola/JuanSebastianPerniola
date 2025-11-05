@@ -1,62 +1,98 @@
-# Juan Sebastian Perniola  
+# 👋 Hi, I'm **Juan Sebastian Perniola**
 
-## About Me  
-I am Juan Sebastian Perniola, a dedicated developer and integrator specializing in .NET and C#. I am passionate about tackling programming challenges and continuously expanding my knowledge in software development. Currently, I am working with API REST services in Java as part of my academic projects. My focus is on backend development and service maintenance, aiming to build scalable and efficient software solutions.  
+💻 **Software Developer & Integration Engineer** specialized in **.NET (C#)** and **Java**
+🚀 Passionate about **backend development**, **API integrations**, and **building scalable systems**.
+📚 Constantly learning and experimenting with new technologies to grow as a full-stack and systems developer.
 
-## Technologies & Programming Languages  
-- **Primary Languages:** C# (.NET), Java  
-- **Additional Languages:** Lua, Python, HTML+CSS  
-- **Development Tools:** Windows Forms, Android Studio (without Kotlin), Blender, Microsoft Report Builder  
-- **Databases & APIs:** Java-based database interactions, RESTful services  
+---
 
-## Academic and Professional Experience  
+## 🧠 About Me
 
-### Academic Background  
-My studies have covered various technologies, including Java, Python, and web development. However, my primary focus is on backend development and system integration.  
+I’m a developer with a strong interest in **backend architecture**, **system integration**, and **software performance optimization**.
+Currently, I’m developing **RESTful APIs in Java** as part of my academic projects while improving my skills in **.NET development**.
 
-### **Subjects Studied**  
+My approach to programming is driven by curiosity and precision — I love solving complex problems and designing clean, maintainable solutions.
 
-#### Development Interfaces  
-- Working with **Windows Forms** to develop graphical applications.  
-- Developed **games and interactive applications** as part of the coursework.  
+---
 
-#### Report Builder  
-- Created **graphical reports** using Microsoft Report Builder on Windows.  
+## ⚙️ Tech Stack
 
-#### Services and Processes  
-- The subject lacks structured instruction, so I have **self-taught** most of the concepts.  
-- Gained experience in **server creation and management** independently.  
+### 💬 Languages
 
-#### Data Access  
-- Using **Java to interact with databases** and handle structured data.  
-- Implementing **RESTful API services** to integrate with external systems.  
+* **Main:** C# (.NET), Java
+* **Additional:** Python, Lua, HTML & CSS
 
-#### Multimedia Programming  
-- Developing applications in **Android Studio** (without Kotlin).  
-- Focused on multimedia-related projects and user interface design.  
+### 🧰 Tools & Frameworks
 
-## Featured Projects  
+* **Windows Forms**
+* **Android Studio** *(without Kotlin)*
+* **Microsoft Report Builder**
+* **Blender** *(3D and design)*
 
-- **[Markup Language Project](https://github.com/JuanSebastianPerniola/LDM)** – A repository focused on learning and implementing HTML+CSS structures.  
-- **[Programming Classes Project](https://github.com/JuanSebastianPerniola/programacion)** – Java-based coursework and exercises.  
-- **[Programming Courses Project]()** – Work in progress, featuring online courses related to Java, Python, and JavaScript.  
-- **[API Development (ADU)](https://github.com/JuanSebastianPerniola/API-)** – Repository for API-related work and implementations.  
+### 🗄️ Databases & APIs
 
-## Personal Projects
-- **[Scripts (Personal Projects)]()** – WIP: A collection of Python scripts for personal use and learning.
- 
-Beyond my academic work, I actively explore various development fields:  
+* Java-based database access
+* RESTful API development & integration
 
-- **3D Modeling & Animation** – Creating assets in Blender for different projects.  
-- **GUI Design** – Designing modern and user-friendly interfaces.  
-- **Roblox Development** – Building interactive experiences using **Lua in Roblox Studio**.  
-- **Godot Development** - Taking part in game jams to challenge myself and grow as a game developer, blending my beginner experience in 3D modeling and gameplay programming
+---
 
-My goal is to deepen my expertise in **backend development and service maintenance**, focusing on building reliable, high-performance software solutions. I am particularly interested in **system architecture, API development, and enterprise-level integrations**.  
+## 🎓 Academic Background
 
-## Contact Information  
+### 🖥️ Development of Interfaces
 
-- **Email:** juanperniolarugby@gmail.com  
-- **LinkedIn:** [Juan Sebastian Perniola](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/)  
+* Built **graphical desktop applications** using *Windows Forms*.
+* Developed **interactive and game-based applications** as coursework.
 
-Let me know if you’d like any refinements or additions!
+### 📊 Report Builder
+
+* Designed **visual data reports** with *Microsoft Report Builder*.
+
+### ⚙️ Services and Processes
+
+* Mostly **self-taught**, exploring **server setup**, **process handling**, and **service architecture**.
+
+### 💾 Data Access
+
+* Developed **Java programs** to manage and query databases.
+* Implemented **RESTful APIs** to connect external systems.
+
+### 📱 Multimedia Programming
+
+* Created **Android applications** *(without Kotlin)*.
+* Focused on **user interface design** and multimedia functionality.
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                            | Description                                                        |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [**Markup Language Project**](https://github.com/JuanSebastianPerniola/LDM)        | Practicing and learning **HTML + CSS** fundamentals.               |
+| [**Programming Exercises**](https://github.com/JuanSebastianPerniola/programacion) | Java-based coursework and algorithmic exercises.                   |
+| [**API Development (ADU)**](https://github.com/JuanSebastianPerniola/API-)         | Focused on **API creation, testing, and integration**.             |
+
+---
+
+## 🧩 Personal Projects
+
+* 🐍 **[Scripts Collection (WIP)]()** – Python utilities and personal experiments.
+* 🎨 **GUI Design** – Creating clean, user-friendly interfaces.
+* 🎮 **Roblox Development** – Building interactive games using **Lua in Roblox Studio**.
+
+---
+
+## 🎯 Goals
+
+My main goal is to **deepen my expertise in backend engineering**, mastering:
+
+* 🧠 **System architecture**
+* 🔗 **API development & integration**
+* 🏢 **Enterprise-level service design**
+
+---
+
+## 📫 Contact
+
+* 📧 **Email:** [juansebastianperniola136@gmail.com](mailto:juansebastianperniola136@gmail.com)
+* 💼 **LinkedIn:** [Juan Sebastian Perniola](https://www.linkedin.com/in/juan-sebastian-perniola-55619a156/)
+* 🐙 **GitHub:** [JuanSebastianPerniola](https://github.com/JuanSebastianPerniola)
